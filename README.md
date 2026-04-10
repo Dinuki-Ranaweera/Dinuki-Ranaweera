@@ -1,11 +1,7 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/nR4L10XlJcSeQ/giphy.gif" width="120px" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxzN3N3NGw4dzZ3Z29pN2h3cWdpaTB5YmMxYm5wbTh2eDE3Y3UxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CAx7tecogwXfz7E3fU/giphy.gif" width="320px" />
 
-```
-✦ ────────────────────────────────────────── ✦
-    ʚ♡ɞ   welcome to dinuki's github   ʚ♡ɞ
-✦ ────────────────────────────────────────── ✦
 ```
 
 # 🎀 Dinuki Ushara Ranaweera 🎀

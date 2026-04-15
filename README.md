@@ -8,9 +8,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e7?style=for-the-badge\&logo=linkedin\&logoColor=c9184a)](https://www.linkedin.com/in/dinuki-ranaweera-46582827a/)
-[![Email](https://img.shields.io/badge/Email-fce4ec?style=for-the-badge\&logo=gmail\&logoColor=c9184a)](mailto:dinukiuhara@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ffd6e7?style=for-the-badge\&logo=github\&logoColor=c9184a)](https://github.com/Dinuki-Ranaweera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e7?style=for-the-badge&logo=linkedin&logoColor=c9184a)](https://www.linkedin.com/in/dinuki-ranaweera-46582827a/)
+[![Email](https://img.shields.io/badge/Email-fce4ec?style=for-the-badge&logo=gmail&logoColor=c9184a)](mailto:dinukiuhara@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ffd6e7?style=for-the-badge&logo=github&logoColor=c9184a)](https://github.com/Dinuki-Ranaweera)
 
 <img src="https://komarev.com/ghpvc/?username=Dinuki-Ranaweera&color=ff85a1&style=for-the-badge&label=VISITORS" />
 
@@ -29,7 +29,7 @@
 ✍️  fun fact     : Scriptwriter → Prompt Engineer (precision mindset)
 🌍 languages    : English · Sinhala · Japanese
 🏆 achievement  : 4th Place — International Hackathon 2025
-```
+````
 
 > *I don’t just build apps — I design experiences powered by intelligence.*
 
@@ -117,6 +117,16 @@
 
 ---
 
+## 🐍 github activity snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dinuki-Ranaweera/Dinuki-Ranaweera/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
 ## 💖 philosophy
 
 <div align="center">
@@ -130,6 +140,10 @@
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff85a1&height=200&section=header&text=Dinuki%20Ranaweera&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<br/><br/>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxzN3N3NGw4dzZ3Z29pN2h3cWdpaTB5YmMxYm5wbTh2eDE3Y3UxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CAx7tecogwXfz7E3fU/giphy.gif" width="240px" />
 

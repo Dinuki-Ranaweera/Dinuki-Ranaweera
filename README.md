@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTM0M3dzZHp4czRwdjBucnJlbWk2dndsZHE5d3M3dnZ1eGpkZWhoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p6jg7cOIQ7dUnOSH35/giphy.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff85a1&height=200&section=header&text=Dinuki%20Ranaweera&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<br/><br/>
+
 
 # 🎀 Dinuki Ushara Ranaweera 🎀
 
@@ -117,35 +120,9 @@
 
 ---
 
-## 🐍 github activity snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dinuki-Ranaweera/Dinuki-Ranaweera/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-## 💖 philosophy
-
-<div align="center">
-
-> ✦ Build with intention
-> ✦ Design with emotion
-> ✦ Code with precision
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff85a1&height=200&section=header&text=Dinuki%20Ranaweera&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-<br/><br/>
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxzN3N3NGw4dzZ3Z29pN2h3cWdpaTB5YmMxYm5wbTh2eDE3Y3UxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CAx7tecogwXfz7E3fU/giphy.gif" width="240px" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTM0M3dzZHp4czRwdjBucnJlbWk2dndsZHE5d3M3dnZ1eGpkZWhoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p6jg7cOIQ7dUnOSH35/giphy.gif" width="100%" />
 
 ### ✦ thanks for visiting ✦
 
@@ -154,3 +131,4 @@
 ```
 
 </div>
+

@@ -4,11 +4,6 @@
 
 <br/><br/>
 
-
-# 🎀 Dinuki Ushara Ranaweera 🎀
-
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=20&pause=1000&color=E75480&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+🎀;AI+%26+Prompt+Engineer+🤖🌸;Mobile+App+Developer+📱🌷;Building+AI-Powered+Products+🎀;Crafting+Clean+Code+%2B+Clean+Design+🌸" />
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e7?style=for-the-badge&logo=linkedin&logoColor=c9184a)](https://www.linkedin.com/in/dinuki-ranaweera-46582827a/)

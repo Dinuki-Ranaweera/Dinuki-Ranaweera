@@ -1,12 +1,13 @@
 <div align="center">
 <img width="1280" height="249" alt="git banner" src="https://github.com/user-attachments/assets/7067f876-00c9-4b96-9f16-30109ccf96ed" />
 
-<br/><br/>
-
 <br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e7?style=for-the-badge&logo=linkedin&logoColor=c9184a)](https://www.linkedin.com/in/dinuki-ranaweera-46582827a/)
 [![Email](https://img.shields.io/badge/Email-fce4ec?style=for-the-badge&logo=gmail&logoColor=c9184a)](mailto:dinukiuhara@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ffd6e7?style=for-the-badge&logo=github&logoColor=c9184a)](https://github.com/Dinuki-Ranaweera)
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Dinuki-Ranaweera&color=ff85a1&style=for-the-badge&label=VISITORS" />
 
@@ -14,43 +15,32 @@
 
 ---
 
-## ✨ about me
+*Full Stack Developer · Prompt Engineer · Mobile Engineer · Scriptwriter*
 
-```yaml
-🎀 name         : Dinuki Ushara Ranaweera
-🌸 degree       : BSc Software Engineering @ IIT (Univ. of Westminster)
-💻 role         : Full Stack Developer · Prompt Engineer
-🤖 focus        : AI-powered applications & LLM integrations
-📱 mobile       : Flutter · Kotlin · React Native
-✍️  fun fact     : Scriptwriter → Prompt Engineer (precision mindset)
-🌍 languages    : English · Sinhala · Japanese
-🏆 achievement  : 4th Place — International Hackathon 2025
 ````
 
-> *I don’t just build apps — I design experiences powered by intelligence.*
+> *I don’t just build apps — I design experiences powered by intelligence.* ૮ ˶•~•˶ ა
 
 ---
 
-## 🧠 what I do
+## 𐙚 What I do
 
 <div align="center">
 
-| 🎯 Focus      | 💡 Description                                    |
-| :------------ | :------------------------------------------------ |
-| 🤖 AI Apps    | Building LLM-powered tools with real-world impact |
-| 💻 Full Stack | Clean frontend + scalable backend systems         |
-| 📱 Mobile     | Cross-platform apps with smooth UX                |
-| ✨ UI/UX       | Aesthetic + intuitive interfaces                  |
+AI Apps    » Building LLM-powered tools with real-world impact 
+Full Stack » Clean frontend + scalable backend systems         
+Mobile     » Cross-platform apps with smooth UX                
+UI/UX      » Aesthetic + intuitive interfaces                  
 
 </div>
 
 ---
 
-## 🌸 tech stack
+## 𐙚 Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### 𐔌՞. .՞𐦯 Languages
 
 ![Python](https://img.shields.io/badge/Python-ffd6e7?style=for-the-badge\&logo=python\&logoColor=c9184a)
 ![Java](https://img.shields.io/badge/Java-fce4ec?style=for-the-badge\&logo=openjdk\&logoColor=c9184a)
@@ -61,7 +51,7 @@
 ![PHP](https://img.shields.io/badge/PHP-ffd6e7?style=for-the-badge\&logo=php\&logoColor=c9184a)
 ![HTML5](https://img.shields.io/badge/HTML5-fce4ec?style=for-the-badge\&logo=html5\&logoColor=c9184a)
 
-### 🌷 Frontend
+### 𐔌՞. .՞𐦯 Frontend
 
 ![React](https://img.shields.io/badge/React-ffd6e7?style=for-the-badge\&logo=react\&logoColor=c9184a)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-fce4ec?style=for-the-badge\&logo=tailwind-css\&logoColor=c9184a)
@@ -69,21 +59,21 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-fce4ec?style=for-the-badge\&logo=bootstrap\&logoColor=c9184a)
 ![Angular](https://img.shields.io/badge/Angular-ffd6e7?style=for-the-badge\&logo=angular\&logoColor=c9184a)
 
-### 🍰 Backend & DB
+### 𐔌՞. .՞𐦯 Backend & DB
 
 ![Node.js](https://img.shields.io/badge/Node.js-fce4ec?style=for-the-badge\&logo=node.js\&logoColor=c9184a)
 ![Express](https://img.shields.io/badge/Express-ffd6e7?style=for-the-badge\&logo=express\&logoColor=c9184a)
 ![MySQL](https://img.shields.io/badge/MySQL-fce4ec?style=for-the-badge\&logo=mysql\&logoColor=c9184a)
 ![Firebase](https://img.shields.io/badge/Firebase-ffd6e7?style=for-the-badge\&logo=firebase\&logoColor=c9184a)
 
-### 🤖 AI
+### 𐔌՞. .՞𐦯 AI
 
 ![Groq API](https://img.shields.io/badge/Groq_API-ffd6e7?style=for-the-badge\&logo=openai\&logoColor=c9184a)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-fce4ec?style=for-the-badge\&logo=google\&logoColor=c9184a)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-ffd6e7?style=for-the-badge\&logo=openai\&logoColor=c9184a)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-fce4ec?style=for-the-badge\&logo=openai\&logoColor=c9184a)
 
-### ☁️ Tools
+### 𐔌՞. .՞𐦯 Tools
 
 ![AWS](https://img.shields.io/badge/AWS-ffd6e7?style=for-the-badge\&logo=amazon-aws\&logoColor=c9184a)
 ![Azure](https://img.shields.io/badge/Azure-fce4ec?style=for-the-badge\&logo=microsoftazure\&logoColor=c9184a)
@@ -98,21 +88,6 @@
 
 ---
 
-## 📊 github analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dinuki-Ranaweera&hide_border=true&include_all_commits=true&count_private=true&bg_color=fff0f5&title_color=c9184a&text_color=e75480&icon_color=ff85a1" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Dinuki-Ranaweera&hide_border=true&background=fff0f5&ring=c9184a&fire=ff85a1&currStreakLabel=c9184a&sideLabels=e75480&currStreakNum=c9184a&sideNums=e75480&dates=ffb3c6" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinuki-Ranaweera&hide_border=true&layout=compact&bg_color=fff0f5&title_color=c9184a&text_color=e75480" width="40%" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTM0M3dzZHp4czRwdjBucnJlbWk2dndsZHE5d3M3dnZ1eGpkZWhoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p6jg7cOIQ7dUnOSH35/giphy.gif" width="100%" />
@@ -120,7 +95,7 @@
 ### ✦ thanks for visiting ✦
 
 ```
-🎀 let's build something beautiful together 🎀
+♥︎ let's build something beautiful together ♥︎
 ```
 
 </div>

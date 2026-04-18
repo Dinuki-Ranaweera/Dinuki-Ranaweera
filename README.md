@@ -1,11 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff85a1&height=200&section=header&text=Dinuki%20Ranaweera&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
+<img width="1280" height="853" alt="git banner" src="https://github.com/user-attachments/assets/d7a9a780-e8fc-4690-81c3-9f2385ecf465" />
 <br/><br/>
-
 <br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e7?style=for-the-badge&logo=linkedin&logoColor=c9184a)](https://www.linkedin.com/in/dinuki-ranaweera-46582827a/)
 [![Email](https://img.shields.io/badge/Email-fce4ec?style=for-the-badge&logo=gmail&logoColor=c9184a)](mailto:dinukiuhara@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ffd6e7?style=for-the-badge&logo=github&logoColor=c9184a)](https://github.com/Dinuki-Ranaweera)

@@ -1,6 +1,8 @@
 <div align="center">
-<img width="1280" height="853" alt="git banner" src="https://github.com/user-attachments/assets/d7a9a780-e8fc-4690-81c3-9f2385ecf465" />
+<img width="1280" height="249" alt="git banner" src="https://github.com/user-attachments/assets/7067f876-00c9-4b96-9f16-30109ccf96ed" />
+
 <br/><br/>
+
 <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e7?style=for-the-badge&logo=linkedin&logoColor=c9184a)](https://www.linkedin.com/in/dinuki-ranaweera-46582827a/)
 [![Email](https://img.shields.io/badge/Email-fce4ec?style=for-the-badge&logo=gmail&logoColor=c9184a)](mailto:dinukiuhara@gmail.com)

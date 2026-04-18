@@ -25,10 +25,10 @@
 
 <div align="left">
 
-AI Apps » Building LLM-powered tools with real-world impact  
+AI Apps    » Building LLM-powered tools with real-world impact  
 Full Stack » Clean frontend + scalable backend systems  
-Mobile » Cross-platform apps with smooth UX  
-UI/UX » Aesthetic + intuitive interfaces  
+Mobile     » Cross-platform apps with smooth UX  
+UI/UX      » Aesthetic + intuitive interfaces  
 
 </div>
 
@@ -38,7 +38,7 @@ UI/UX » Aesthetic + intuitive interfaces
 
 <div align="center">
 
-### ⚜ Languages
+### ‪‪❤︎‬ Languages
 
 ![Python](https://img.shields.io/badge/Python-ffd6e7?style=for-the-badge&logo=python&logoColor=c9184a)
 ![Java](https://img.shields.io/badge/Java-fce4ec?style=for-the-badge&logo=openjdk&logoColor=c9184a)
@@ -49,7 +49,7 @@ UI/UX » Aesthetic + intuitive interfaces
 ![PHP](https://img.shields.io/badge/PHP-ffd6e7?style=for-the-badge&logo=php&logoColor=c9184a)
 ![HTML5](https://img.shields.io/badge/HTML5-fce4ec?style=for-the-badge&logo=html5&logoColor=c9184a)
 
-### ⚜ Frontend
+### ‪‪❤︎‬ Frontend
 
 ![React](https://img.shields.io/badge/React-ffd6e7?style=for-the-badge&logo=react&logoColor=c9184a)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-fce4ec?style=for-the-badge&logo=tailwind-css&logoColor=c9184a)
@@ -57,21 +57,21 @@ UI/UX » Aesthetic + intuitive interfaces
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-fce4ec?style=for-the-badge&logo=bootstrap&logoColor=c9184a)
 ![Angular](https://img.shields.io/badge/Angular-ffd6e7?style=for-the-badge&logo=angular&logoColor=c9184a)
 
-### ⚜ Backend & DB
+### ‪‪❤︎‬ Backend & DB
 
 ![Node.js](https://img.shields.io/badge/Node.js-fce4ec?style=for-the-badge&logo=node.js&logoColor=c9184a)
 ![Express](https://img.shields.io/badge/Express-ffd6e7?style=for-the-badge&logo=express&logoColor=c9184a)
 ![MySQL](https://img.shields.io/badge/MySQL-fce4ec?style=for-the-badge&logo=mysql&logoColor=c9184a)
 ![Firebase](https://img.shields.io/badge/Firebase-ffd6e7?style=for-the-badge&logo=firebase&logoColor=c9184a)
 
-### ⚜ AI
+### ‪‪❤︎‬ AI
 
 ![Groq API](https://img.shields.io/badge/Groq_API-ffd6e7?style=for-the-badge&logo=openai&logoColor=c9184a)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-fce4ec?style=for-the-badge&logo=google&logoColor=c9184a)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-ffd6e7?style=for-the-badge&logo=openai&logoColor=c9184a)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-fce4ec?style=for-the-badge&logo=openai&logoColor=c9184a)
 
-### ⚜ Tools
+### ‪‪❤︎‬ Tools
 
 ![AWS](https://img.shields.io/badge/AWS-ffd6e7?style=for-the-badge&logo=amazon-aws&logoColor=c9184a)
 ![Azure](https://img.shields.io/badge/Azure-fce4ec?style=for-the-badge&logo=microsoftazure&logoColor=c9184a)
